@@ -23,3 +23,12 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
+- name: testtext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: testtext
