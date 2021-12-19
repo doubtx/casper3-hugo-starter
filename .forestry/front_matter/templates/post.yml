@@ -32,3 +32,13 @@ fields:
     schema:
       format: html-blocks
   label: testtext
+- name: blocks-field
+  type: blocks
+  label: Blocks-field
+  template_types:
+  - post
+  - test
+  config:
+    min: 
+    max: 
+  description: I am blocks field
