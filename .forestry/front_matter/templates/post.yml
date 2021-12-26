@@ -39,6 +39,6 @@ fields:
   - post
   - test
   config:
-    min: 
+    min: 1
     max: 
   description: I am blocks field
